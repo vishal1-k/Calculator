@@ -74,7 +74,7 @@ This project was developed to practice Android development using Kotlin and Jetp
 
 VISHAL KAHSYP
 
-- GitHub: 
+- GitHub: https://github.com/vishal1-k/Calculator.git
 
 📄 License
 
